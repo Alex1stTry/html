@@ -1,0 +1,29 @@
+.size200{
+    width: 200px;
+    height: 200px;
+    background-color: burlywood;
+}
+.rubik{
+    font-family: 'Rubik Pixels', sans-serif;
+}
+.sedgwick{
+    font-family: 'Sedgwick Ave Display', sans-serif;
+}
+.dancing{
+    font-family: 'Dancing Script', sans-serif;
+}
+.fjalla{
+    font-family: 'Fjalla One', sans-serif;
+}
+.indie{
+    font-family: 'Indie Flower', sans-serif;
+}
+body{
+    display: flex;
+    justify-content: space-between;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
