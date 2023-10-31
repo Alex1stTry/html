@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+.first{
+    height: 50vh;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.second{
+    height: 50vh;
+    background-color: #171616;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h2{
+    font-size: 70px;
+}
+p{
+    font-size: 25px;
+    padding: 0 35px;
+    text-align: center;
+}
