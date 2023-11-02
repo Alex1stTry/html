@@ -18,20 +18,19 @@ div{
 .insta{
     width: 20vw;
     height: 15vh;
+    padding-bottom: 20px;
 }
 header{
     width: 35vw;
-    height: 75vh;
+    height: 85vh;
     border: solid #e0e0e0;
 }
-form{
-    display: block;
-}
+
 footer{
     width: 35vw;
     height: 10vh;
     border: solid #e0e0e0;
-    margin-top: 4vh;
+    margin-top: 2vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -39,7 +38,7 @@ footer{
 }
 input{
     width: 25vw;
-    height: 5vh;
+    height: 7vh;
     margin: 1vh;
     border-radius: 6px;
     font-size: 26px;
@@ -48,7 +47,7 @@ input{
 button{
     margin-top: 2vh;
     width: 25vw;
-    height: 5vh;
+    height: 7vh;
     background: #71b4fc;
     color: white;
     font-size: 26px;
