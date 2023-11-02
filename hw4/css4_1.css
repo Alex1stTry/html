@@ -43,6 +43,7 @@ input{
     margin: 1vh;
     border-radius: 6px;
     font-size: 26px;
+    border: solid #e0e0e0;
 }
 button{
     margin-top: 2vh;
