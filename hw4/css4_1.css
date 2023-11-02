@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    background-color: #1e1c1c;
+    display: flex;
+    justify-content: center;
+}
+div{
+    background-color: white;
+    width: 40vw;
+    height: 100vh;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.insta{
+    width: 20vw;
+    height: 15vh;
+}
+header{
+    width: 35vw;
+    height: 75vh;
+    border: solid #e0e0e0;
+}
+form{
+    display: block;
+}
+footer{
+    width: 35vw;
+    height: 10vh;
+    border: solid #e0e0e0;
+    margin-top: 4vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+input{
+    width: 25vw;
+    height: 5vh;
+    margin: 1vh;
+    border-radius: 6px;
+    font-size: 26px;
+}
+button{
+    margin-top: 2vh;
+    width: 25vw;
+    height: 5vh;
+    background: #71b4fc;
+    color: white;
+    font-size: 26px;
+    border-radius: 10px;
+}
+p{
+    font-size: 26px;
+    color: #8f8f8f;
+    margin-top: 3vh;
+}
+a{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 28px;
+
+    text-decoration: none;
+}
+span{
+    color:black;
+    font-size: 28px;
+}
+.blue{
+    color: #041f91;
+}
+.anotherblue{
+    color: #62b1ff;
+}
