@@ -1,17 +1,55 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500&display=swap');
 body{
-    margin: 0;
+
     background-color: darkcyan;
     display: flex;
     justify-content: center;
-    align-items: center;
+    margin-top: 20vh;
 }
 header{
     background-color: #dce1df;
-    height: 10vh;
-    width: 50vw;
-    font-size: 28px;
+    height: 12vh;
+    width: 45vw;
+    font-size: 52px;
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 15px 15px 0 0;
+
+}
+.input{
+    width: 45vw;
+    height: 50vh;
+    background-color: white;
+    border-radius: 0 0 15px 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.name{
+    width: 60%;
+    height: 5vh;
+    margin-top: 4vh;
+
+}
+.remember{
+    margin-top: 6vh;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+}
+div input{
+    width: 2vw;
+    height: 2vh;
+}
+div button{
+    width: 6vw;
+    height: 4vh;
+    background-color: #dce1df;
+    border-radius: 25px;
+    font-size: 20px;
 }
