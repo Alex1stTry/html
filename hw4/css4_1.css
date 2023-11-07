@@ -7,7 +7,9 @@ body{
 div{
     background-color: white;
     width: 40vw;
-    height: 100vh;
+    height: 93vh;
+    padding: 30px;
+
 }
 .flex{
     display: flex;
