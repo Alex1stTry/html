@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbe83238-6dce-4dc4-bcf1-b4318551e472" name="Changes" comment="4_2 done">
-      <change afterPath="$PROJECT_DIR$/hw4/4_3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/4_3_additional.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/5_1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/5_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/5_2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw4/css4_1.css" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/css4_1.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +65,8 @@
       <workItem from="1698767285262" duration="4947000" />
       <workItem from="1698945261165" duration="12712000" />
       <workItem from="1699039972246" duration="5418000" />
+      <workItem from="1699353168210" duration="2000" />
+      <workItem from="1699379724119" duration="1277000" />
     </task>
     <task id="LOCAL-00001" summary="createProject">
       <option name="closed" value="true" />
