@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+body{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.size {
+    width: 15vw;
+    height: 50vh;
+    margin-top: 20vh;
+    position: relative;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.first{
+    border: 4px solid #554C4C;
+    background: rgba(217, 217, 217, 0.30);
+}
+.second{
+    border: 4px solid #65856E;
+    background: rgba(217, 217, 217, 0.30);
+}
+.third{
+    border: 4px solid #554C4C;
+    background: rgba(217, 217, 217, 0.30);
+}
+p{
+    color: #000;
+    text-align: center;
+    font-family: Inter sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+h2{
+    color: #000;
+    font-family: Inter sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.first_circle, .second_circle, .third_circle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: #FFF;
+    border: 4px solid;
+    border-radius: 50%;
+    top: -50px;
+}
+.first_circle{
+    border-color: #554C4C;
+}
+.second_circle{
+    border-color: #65856E;
+}
+.third_circle{
+    border-color: #554C4C;;
+}
