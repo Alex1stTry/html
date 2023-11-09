@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+header{
+    height: 25vh;
+    background-color: green;
+
+}
+div{
+    height: 75vh;
+    display: flex;
+}
+main{
+    height: 75vh;
+    width: 70vw;
+    background-color: #041f91;
+}
+aside{
+    height: 75vh;
+    width: 30vw;
+    background-color: red;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
