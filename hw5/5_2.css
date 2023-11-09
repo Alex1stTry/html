@@ -56,6 +56,7 @@ h2{
     border: 4px solid;
     border-radius: 50%;
     top: -50px;
+    background-size: cover;
 }
 .first_circle{
     border-color: #554C4C;
