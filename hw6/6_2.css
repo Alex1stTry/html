@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+h2{
+    color: darkred;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    height: 30vh;
+    background-color: #62b1ff;
+}
+main{
+    height: 35vh;
+    width: 90vw;
+    background-color: #8f8f8f;
+}
+.left, .center, .right{
+    height: 35vh;
+    width: 30vw;
+}
+.left{
+    background-color: #1e1c1c;
+}
+.center{
+    background-color: #544F4F;
+}
+.right{
+    background-color: #554C4C;
+}
+.bcde{
+    display: flex;
+    flex-direction: column;
+}
+.bcdef{
+    display: flex;
+}
+.cde{
+    display: flex;
+}
+aside{
+    width: 10vw;
+    height: 70vh;
+    background-color: black;
+}
