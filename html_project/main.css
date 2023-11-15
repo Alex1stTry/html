@@ -216,7 +216,7 @@ input{
 
 }
 .export>div{
-    width: 1281px;
+    width: 85vw;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -256,3 +256,101 @@ input{
      line-height: 80px; /* 400% */
      text-decoration: none;
  }
+.second_service{
+    width: 100%;
+}
+.second_service>div{
+    display: flex;
+    width: 85vw;
+    padding: 100px 120px 0 120px;
+    justify-content: center;
+    flex-direction: column;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 10px;
+    background: #FDC13D;
+    margin: 0 15px 0 15px;
+    width: 75vw;
+    height: 20vh;
+}
+.header>h4{
+    color: #0E2F4B;
+    font-family: Rubik sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px; /* 133.333% */
+    margin-left: 75px;
+    margin-bottom: 0;
+}
+.header>p{
+    color: #0E2F4B;
+    font-family: Open Sans sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 187.5% */
+    margin-left: 75px;
+}
+.header>a{
+    color: #0E2F4B;
+    font-family: Rubik sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 150% */
+    text-decoration: none;
+    margin-left: 75px;
+}
+.second_service>div>h2{
+    margin-left: 15px;
+    margin-top: 100px;
+    color: #0E2F4B;
+    font-family: Rubik sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px; /* 125% */
+}
+.second_links{
+    display: flex;
+    gap: 30px;
+}
+.second_links>div{
+    height: 30vh;
+    width: 20vw;
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+}
+.second_links>div>h2{
+    margin: 0;
+    color: #0E2F4B;
+    font-family: Rubik sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px; /* 133.333% */
+}
+.second_links>div>a{
+    margin-top: 1vh;
+    text-decoration: none;
+    color: #0E2F4B;
+    font-family: Rubik sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px; /* 142.857% */
+}
+.index{
+    width: 100%;
+}
+.index>div{
+    width: 85vw;
+    height: 45vh ;
+    padding: 100px 135px 0 135px;
+    background: #0E2F4B;
+}
