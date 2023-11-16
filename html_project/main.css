@@ -81,6 +81,24 @@ nav>div>a{
     display: flex;
     width: 70vw;
 }
+label{
+    display: block;
+
+}
+#number{
+    width: 37vw;
+    height: 8vh;
+    color: #757575;
+    font-family: Rubik sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    border-radius: 10px;
+    border:0 solid white;
+    padding-left: 30px;
+}
 .text>h2{
     color: #0E2F4B;
     font-family: Rubik sans-serif;
@@ -160,27 +178,13 @@ nav>div>a{
 .input{
     display: flex;
     flex-direction: column;
-    height: 35vh;
+    height: 25vh;
     width: 80vw;
     position: absolute;
     top: -170px;
     border-radius: 10px;
     background: none;
 
-}
-.input>div>input{
-    width: 37vw;
-    height: 8vh;
-    color: #757575;
-    font-family: Rubik sans-serif;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    letter-spacing: 0.5px;
-    border-radius: 10px;
-    border:0 solid white;
-    padding-left: 30px;
 }
 .links{
     display: flex;
